@@ -254,6 +254,6 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 **Built with ❤️ using N8N Workflow Automation**
 
-[⭐ Star this repo](https://github.com/Ahmed-Esso/N8N-Customer-Service/stargazers) | [🐛 Report Bug](https://github.com/Ahmed-Esso/N8N-Customer-Service/issues) | [✨ Request Feature](https://github.com/Ahmed-Esso/N8N-Customer-Service/issues)
+[⭐ Star this repo](https://github.com/Ahmed-Esso/N8N-Customer-Service) | [🐛 Report Bug](https://github.com/Ahmed-Esso/N8N-Customer-Service/issues) | [✨ Request Feature](https://github.com/Ahmed-Esso/N8N-Customer-Service/issues)
 
 </div>
