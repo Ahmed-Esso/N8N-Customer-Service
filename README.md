@@ -88,8 +88,8 @@ graph TD
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/max-pharma-n8n-automation.git
-   cd max-pharma-n8n-automation
+   git clone https://github.com/Ahmed-Esso/N8N-Customer-Service.git
+   cd N8N-Customer-Service
    ```
 
 2. **Import N8N Workflows**
@@ -254,6 +254,6 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 **Built with ❤️ using N8N Workflow Automation**
 
-[⭐ Star this repo](https://github.com/your-username/max-pharma-n8n-automation) | [🐛 Report Bug](https://github.com/your-username/max-pharma-n8n-automation/issues) | [✨ Request Feature](https://github.com/your-username/max-pharma-n8n-automation/issues)
+[⭐ Star this repo](https://github.com/Ahmed-Esso/N8N-Customer-Service/stargazers) | [🐛 Report Bug](https://github.com/Ahmed-Esso/N8N-Customer-Service/issues) | [✨ Request Feature](https://github.com/Ahmed-Esso/N8N-Customer-Service/issues)
 
 </div>
